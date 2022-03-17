@@ -1,0 +1,23 @@
+{
+  "name": "aha",
+  "version": "1.0.0",
+  "description": "**A PWA ( to be ) Todo App.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FU-PWA-HT21/aha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FU-PWA-HT21/aha/issues"
+  },
+  "homepage": "https://github.com/FU-PWA-HT21/aha#readme",
+  "dependencies": {
+    "https-localhost": "^4.7.0"
+  }
+}
